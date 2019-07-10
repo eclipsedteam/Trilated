@@ -4,7 +4,7 @@
 ![alt text](https://i.imgur.com/lYfVR6u.png "About")
 ### Trilated is a skin based off Dashed - With Trilated, we're going for a more "osu!lazer-ey" look, featuring triangles, magenta, and much more!
 ###  
-[![alt text](https://i.imgur.com/vmePpNz.png "Download")](https://github.com/eclipsedteam/Dashed/releases/latest/download/Trilated.osk)
+[![alt text](https://i.imgur.com/vmePpNz.png "Download")](https://github.com/eclipsedteam/Trilated/releases/latest/download/Trilated.osk)
 ###  
 
 ![alt text](https://i.imgur.com/h2EjpXE.png "Install")
